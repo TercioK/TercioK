@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/UFPB-%23004a99.svg?style=for-the-badge&logo=https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Graduation-Cap.png&logoColor=white">
   </a>
 </p>
+
 ---
 
 <div align="center">
