@@ -1,6 +1,14 @@
-## Opa, como vocês estão? Me chamo Tercio👋
+<h1 align="center">Opa! Como vocês estão? Me chamo Tercio 👋</h1>
+<p align="center">
+  <em>Sempre a procura de Desenvolver ideias malucas na Programação.</em>
+</p>
 
-Sempre a procura de Desenvolver ideias malucas na Programação.
+<p style="display: flex; align-items: center; gap: 10px; font-weight: bold; font-size: 1.1em;">
+  <img src="https://raw.githubusercontent.com/TercioK/TercioK/refs/heads/main/EuMesmo.png" width="35" height="35" style="border-radius: 50%;">
+  <span>| Um pouco sobre mim:</span>
+</p>
+
+#### <img src="https://raw.githubusercontent.com/TercioK/TercioK/refs/heads/main/EuMesmo.png" width="35" height="35" align="center" style="border-radius: 50%;">  |  Um pouco sobre mim:
 - 🎓 Estudante de Ciência da Computação na **UFPB**
 - 🧑‍💻 Focando no momento em **Java**
 
@@ -10,12 +18,16 @@ Sempre a procura de Desenvolver ideias malucas na Programação.
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 #### </> | Próximos Passos:
-![C#](https://img.shields.io/badge/Learning-C%23-%23239120?style=flat-square&logo=c-sharp)
-![C++](https://img.shields.io/badge/Goal-C%2B%2B-%2300599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-$ echo "vamos construir algo legal"
+#### 💻 | Operando na Maquina:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-vamos construir algo legal
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TercioK&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
 
 <div align="center">
   <img src="Purple_JxT_Sky.gif" width="700px">
