@@ -1,4 +1,4 @@
-<h1 align="center">Opa! Como vocês estão? Me chamo Tercio 👋</h1>
+<h1 align="center">Opa! Como vocês estão? Me chamo Tercio👋</h1>
 <p align="center">
   <em>Sempre a procura de Desenvolver ideias malucas na Programação.</em>
 </p>
