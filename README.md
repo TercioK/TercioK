@@ -31,6 +31,11 @@
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TercioK&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
 
+<p align="center">
+  <a href="https://www.ufpb.br/">
+    <img src="https://img.shields.io/badge/UFPB-%23004a99.svg?style=for-the-badge&logo=https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Graduation-Cap.png&logoColor=white">
+  </a>
+</p>
 ---
 
 <div align="center">
