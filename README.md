@@ -44,3 +44,8 @@
 <div align="center">
   <img src="MeuTUDO.png" width="200px">
 </div>
+
+<h1 align="center">📂 | Meus Projetos</h1>
+<p align="center">
+  <em>Abaixo estão meus projetos em diversas linguagens de programação; fique à vontade para dar uma olhada. Agradeço muito! :)</em>
+</p>
