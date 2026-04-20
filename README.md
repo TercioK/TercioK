@@ -40,3 +40,7 @@
 <p align="center">
   <em>Na minha máquina funciona.</em> 🟩
 </p>
+
+<div align="center">
+  <img src="MeuTUDO.png" width="200px">
+</div>
