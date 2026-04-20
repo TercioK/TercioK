@@ -3,7 +3,7 @@
   <em>Sempre a procura de Desenvolver ideias malucas na Programação.</em>
 </p>
 
-#### <img src="https://raw.githubusercontent.com/TercioK/TercioK/refs/heads/main/EuMesmoAnim.gif" width="35" height="35" align="center" style="border-radius: 50%;"> |  Um pouco sobre mim:
+#### <img src="https://raw.githubusercontent.com/TercioK/TercioK/refs/heads/main/EuMesmoAnim.gif" width="50" height="50" align="center" style="border-radius: 50%;"> |  Um pouco sobre mim:
 - 🎓 Estudante de Ciência da Computação na **UFPB**
 - 🧑‍💻 Focando no momento em **Java**
 - 🛠️ Se esforçando pra se torna um Back-end
